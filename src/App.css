@@ -1,0 +1,32 @@
+body {
+	background-color: rgb(21, 32, 43);
+}
+
+.page-title {
+	display: block !important;
+	color: white;
+	text-align: center;
+	font-size: 2rem;
+	margin-top: 10px;
+}
+.create-post-title {
+	color: white;
+}
+
+.form-container {
+	width: 400px;
+	margin: auto;
+}
+
+label {
+	color: white !important;
+}
+
+.item {
+	color: white !important;
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus {
+	background-color: #00b5ad;
+}
