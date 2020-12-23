@@ -14,7 +14,7 @@ body {
 }
 
 .form-container {
-	width: 400px;
+	max-width: 100%;
 	margin: auto;
 }
 
@@ -29,4 +29,9 @@ label {
 .ui.teal.button:focus,
 .ui.teal.buttons .button:focus {
 	background-color: #00b5ad;
+}
+
+.ui.grid {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
 }
